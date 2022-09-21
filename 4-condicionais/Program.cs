@@ -26,7 +26,9 @@ class Programa
 
         int idadeDuda = 15;
         bool acompanhante = true;
-        
+
+        //se declararmos uma variável dentro de um bloco de código (um if por exemplo) 
+        //ela só vai existir lá, fora daquele bloco ela não pode ser utilizada por não existe
 
         if (idadeDuda >= 18 || acompanhante)
         {
@@ -34,10 +36,11 @@ class Programa
            Console.WriteLine("Pode entrar pois você é maior ou está acompanhado");
              
         } 
+        //quando o else ou o if tem só um instrução, podemo utilizar ele sem as chaves 
         else
-        {
+        
             Console.WriteLine("Não pode entrar");
-        }
+        
 
         Console.WriteLine("Digite enter para sair");
         Console.ReadLine();
