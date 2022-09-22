@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-InvestimentoLongoPrazo", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A10 -EncadeandoFor2", "A10 -EncadeandoFor2\A10 -EncadeandoFor2.csproj", "{7836B88D-D374-425E-8B44-F8A647D1DBF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A11-Multiplos3", "A11-Multiplos3\A11-Multiplos3.csproj", "{37254D80-A53F-4427-87A4-DC5F574BA44A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{7836B88D-D374-425E-8B44-F8A647D1DBF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7836B88D-D374-425E-8B44-F8A647D1DBF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7836B88D-D374-425E-8B44-F8A647D1DBF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37254D80-A53F-4427-87A4-DC5F574BA44A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37254D80-A53F-4427-87A4-DC5F574BA44A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37254D80-A53F-4427-87A4-DC5F574BA44A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37254D80-A53F-4427-87A4-DC5F574BA44A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
